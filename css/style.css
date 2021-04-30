@@ -110,10 +110,21 @@ section.loja > .center{
     max-width: 100%;
 }
 
+.loja-wraper a{
+    color: white;
+    background: #1e88e5;
+    padding: 10px 8px;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
 @media screen and (max-width: 768px){
     .loja-wraper{
         width: 100%;
-        display: block;
+        max-width: 500px;
+        padding: 20px;
+        margin: 30px auto;
     }
     
 }
