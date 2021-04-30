@@ -170,5 +170,9 @@ section.novidades{
         padding: 20px;
         margin: 30px auto;
     }
+    .w50{
+        width: 100%;
+        margin-bottom: 30px;
+    }
     
 }
